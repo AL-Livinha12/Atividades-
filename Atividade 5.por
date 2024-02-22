@@ -1,11 +1,11 @@
 programa {
   funcao inicio() {
   inteiro soma,multi,sub,a,b,resultado
-  real div
+  real  divi
   cadeia op
 
-//Início: dando as coordenadas.
-  escreva("Escolha uma das operações(+,-,*,/):")
+//InÃ­cio: dando as coordenadas.
+  escreva("Escolha uma das operaÃ§Ãµes(+,-,*,/):")
   leia(op)
   limpa()
   escreva("Digite o valor inteiro de A:")
